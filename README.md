@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Nestjs, Expressjs, Angular and React**
 
-- 📫 How to reach me **oykuparlak2462@gmail.com**
+- 📫 How to reach me **hello@oykuparlak.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
