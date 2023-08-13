@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Nestjs, Expressjs, Angular and React**
 
-- 📫 How to reach me **hello@oykuparlak.dev**
+- 📫 How to reach me **oykuparlak2462@gmail.com**
 
 - 👨‍💻 All of my projects are available at [oykuparlak.dev](oykuparlak.dev)
  
