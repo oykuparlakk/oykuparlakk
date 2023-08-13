@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **oykuparlak2462@gmail.com**
 
-- 👨‍💻 All of my projects are available at [oykuparlak.dev](oykuparlak.dev)
+- 👨‍💻 All of my projects are available at [oykuparlak.dev](https://oykuparlak.dev/)
  
 
 <h3 align="left">Connect with me:</h3>
