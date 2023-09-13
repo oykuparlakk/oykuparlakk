@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Nestjs, Expressjs, Angular and React**
+- 💬 Ask me about **Nestjs, Expressjs, Typescript Angular and React**
 
 - 📫 How to reach me **oykuparlak2462@gmail.com**
 
