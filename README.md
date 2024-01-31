@@ -2,16 +2,12 @@
 <h3 align="center">A passionate fullstack developer from Istanbul</h3>
 
 
-- 🔭 I’m currently working on **Nestjs and Angular**
-
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **Next.js**
 
 - 💬 Ask me about **Nestjs, Expressjs, Typescript Angular and React**
 
 - 📫 How to reach me **oykuparlak2462@gmail.com**
 
-- 👨‍💻 All of my projects are available at [oykuparlak.dev](https://oykuparlak.dev/)
- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
