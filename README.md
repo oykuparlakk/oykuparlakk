@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Next.js**
 
-- 💬 Ask me about **Nestjs, Expressjs, Typescript Angular and React**
+- 💬 Ask me about **React, Typescript and Next.js**
 
 - 📫 How to reach me **oykuparlak2462@gmail.com**
 
